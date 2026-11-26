@@ -1,0 +1,58 @@
+skill,category,est_hours,learning_focus
+docker,DevOps & Deployment,12,Containerizing Python apps writing Dockerfiles and multi-service Compose setups
+kubernetes,DevOps & Deployment,20,Pods deployments services and scaling containerized workloads
+mlflow,MLOps & Experimentation,8,Tracking experiments model registry and reproducible ML runs
+fastapi,Backend & APIs,10,Building typed REST inference endpoints with Pydantic validation
+ci/cd,DevOps & Deployment,10,Automating tests linting and container builds via GitHub Actions
+aws,Cloud Platforms,18,Core IAM S3 EC2 and deploying managed ML or web services
+pytorch,Deep Learning,24,Tensors autograd custom datasets and training neural networks
+tensorflow,Deep Learning,20,Keras model building callbacks and SavedModel export
+transformers,NLP & AI,16,Tokenizers Hugging Face pipelines and sentence embeddings
+hugging face,NLP & AI,10,Fine-tuning pretrained models and hosting inference spaces
+spacy,NLP & AI,8,Tokenization NER pipelines and custom text processing components
+apache spark,Data Engineering,22,Distributed DataFrames Spark SQL and batch ETL jobs
+airflow,Data Engineering,14,Directed Acyclic Graphs scheduling and task retries
+postgresql,Databases,10,Schema design indexing joins and query execution plans
+sql,Databases,12,Aggregations window functions CTEs and relational querying
+node.js,Web Backend,16,Express APIs async middleware and database integration
+react,Web Frontend,20,Components hooks state management and API consumption
+typescript,Web Frontend,10,Static typing interfaces and safer React/Node codebases
+power bi,Analytics & BI,12,Data modeling DAX measures and interactive dashboards
+tableau,Analytics & BI,12,Calculated fields visual storytelling and dashboard filters
+statistics,Math & Foundations,15,Distributions hypothesis testing confidence intervals and p-values
+a/b testing,Analytics & BI,8,Experiment sizing significance testing and uplift interpretation
+terraform,Cloud Infrastructure,14,Infrastructure as Code state management and cloud modules
+linux,Systems & OS,12,Shell navigation permissions systemd and process troubleshooting
+networking,Systems & Security,14,TCP/IP DNS HTTP TLS firewalls and packet inspection
+siem,Security,16,Log ingestion correlation rules and alert triage workflows
+vulnerability assessment,Security,12,Scanning prioritization CVSS triage and remediation tracking
+incident response,Security,14,Containment playbooks root cause analysis and postmortems
+deep learning,Deep Learning,22,Backpropagation regularization CNNs and optimization strategies
+cnn,Computer Vision,16,Convolutions pooling feature maps and transfer learning
+opencv,Computer Vision,14,Image filtering contours feature matching and video streams
+langchain,LLM Engineering,12,Chains retrieval pipelines structured outputs and tool calling
+prompt engineering,LLM Engineering,6,Few-shot prompting structured extraction and evaluation
+rest api,Backend & APIs,8,HTTP verbs status codes pagination auth and API design
+git,Engineering Foundations,6,Branching pull requests rebasing and collaborative workflows
+machine learning,ML Core,20,Supervised vs unsupervised learning cross-validation and bias-variance
+scikit-learn,ML Core,14,Pipelines ColumnTransformer feature scaling and model evaluation
+model evaluation,ML Core,8,Choosing task-appropriate metrics cross-validation and error analysis
+data visualization,Analytics & BI,8,Chart selection perceptual clarity and storytelling with data
+etl,Data Engineering,12,Extract transform load patterns idempotency and data quality checks
+excel,Analytics & BI,8,Pivot tables lookup formulas and quick exploratory modeling
+firebase,Mobile & Cloud,10,Auth Firestore realtime sync and mobile backend integration
+flutter,Mobile Development,22,Widget trees navigation state and cross-platform builds
+dart,Mobile Development,10,Null safety async streams and object-oriented patterns
+mobile ui,Mobile Development,10,Responsive layouts animations and platform guidelines
+state management,Mobile Development,10,Provider/Riverpod patterns and predictable UI state
+linear programming,Optimization,14,Objective functions constraints simplex and solver modeling
+optimization,Optimization,16,Formulating resource allocation scheduling and routing problems
+prometheus,Observability,10,Metrics scraping PromQL queries and alerting rules
+grafana,Observability,8,Operational dashboards latency panels and alert visualization
+bash,Systems & OS,8,Shell scripting pipes automation cron jobs and exit codes
+mysql,Databases,10,Relational schema design indexing and backups
+database tuning,Databases,12,EXPLAIN plans composite indexes and slow query optimization
+backup and recovery,Databases,8,Snapshots point-in-time recovery and restore drills
+data modeling,Data Architecture,12,Star schemas normalization and entity-relationship design
+security monitoring,Security,12,Log auditing anomaly triage and endpoint telemetry
+responsive design,Web Frontend,8,Flexbox Grid media queries and mobile-first layouts

@@ -1,4 +1,5 @@
 # Skill-Gap & Career Path Optimizer
+**Live Demo:** [https://skill-gap-career-optimizer-i5tnguyoecp7wbg9hkynj9.streamlit.app/](https://skill-gap-career-optimizer-i5tnguyoecp7wbg9hkynj9.streamlit.app/)
 
 A **prescriptive Machine Learning mini-project** that solves a real-life problem: helping students and job seekers figure out **which tech roles fit them best** and **which missing skills to learn first under a limited time budget**.
 
